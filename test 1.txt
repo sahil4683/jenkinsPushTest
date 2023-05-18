@@ -1,1 +1,1 @@
-first input
+input 2
